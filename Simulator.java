@@ -1,6 +1,6 @@
 
 /**
-* Assignment #2.
+* Assignment #3b.
 * This program simulates the probability of winning given an input.
 *
 * Authors: Michael Lau (mlau10@ucsc.edu)
